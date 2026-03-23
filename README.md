@@ -15,7 +15,8 @@ Both choices are printed in readable form using another dictionary that maps num
 The game then compares the moves: if both choose the same, it’s a draw; otherwise, the rules are applied snake beats water, water beats gun, and gun beats snake to determine if the user wins or loses. 
 The code demonstrates basic Python concepts like dictionaries, user input, conditional statements, and randomness in an interactive way.
 
-
 Try playing it, it would be fun.
 
-Hope u like it
+---
+
+**Thank you for visiting this repository. If you find this project helpful, feel free to star the repo or reach out for collaborations.**
